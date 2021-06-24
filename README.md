@@ -9,18 +9,18 @@ Implementation of Data structures and Algorithms.It covers all the important Dat
 ## 1. SEARCHING ALGORITHM
    -[Linear Search](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Searching_Algorithm/LINEAR_SEARCH.cpp)
    
-   -Binary Search
+   -[Binary Search](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Searching_Algorithm/BINARY_SEARCH.CPP)
    
 ## 2. SORTING ALGORITHM
-   -Insertion Sort
+   -[Insertion Sort](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Sorting_Algorithm/INSERTION_SORT.CPP)
    
-   -Selection Sort
+   -[Selection Sort](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Sorting_Algorithm/SELECTION_SORT.CPP)
    
-   -Bubble Sort
+   -[Bubble Sort](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Sorting_Algorithm/BUBBLE_SORT.CPP)
    
-   -Quick Sort
+   -[Quick Sort](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Sorting_Algorithm/QUICK_SORT.cpp)
    
-   -Merge Sort
+   -[Merge Sort](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Sorting_Algorithm/MERGE_SORT.CPP)
 
 
 # TIME COMPLEXITY
