@@ -8,15 +8,18 @@ Implementation of Data structures and Algorithms.It covers all the important Dat
 
 ## 1. SEARCHING ALGORITHM
    -Linear Search
-## 
+   
    -Binary Search
    
 ## 2. SORTING ALGORITHM
    -Insertion Sort
    
    -Selection Sort
+   
    -Bubble Sort
+   
    -Quick Sort
+   
    -Merge Sort
 
 
