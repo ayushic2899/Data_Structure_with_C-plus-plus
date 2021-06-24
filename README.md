@@ -7,7 +7,7 @@ Implementation of Data structures and Algorithms.It covers all the important Dat
 # TOPICS COVERED
 
 ## 1. SEARCHING ALGORITHM
-   -Linear Search
+   -[Linear Search](https://github.com/ayushic2899/Data_Structure_with_C-plus-plus/blob/main/Searching_Algorithm/LINEAR_SEARCH.cpp)
    
    -Binary Search
    
