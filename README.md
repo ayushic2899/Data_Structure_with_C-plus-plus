@@ -1,5 +1,11 @@
 # Data Structure and Algorithm with C++
 
+LEETCODE Profile- https://leetcode.com/2809ayushic/
+
+HACKER-RANK Profile- https://www.hackerrank.com/ayushic2809?hr_r=1
+
+CODECHEF Profile - https://www.codechef.com/users/ayushi28999
+
 Implementation of Data structures and Algorithms.It covers all the important Data structures and Algorithms and also some problems which are really important from the interview point of view.
 
 ![alt text](https://miro.medium.com/max/5442/1*KpDOKMFAgDWaGTQHL0r70g.png)
