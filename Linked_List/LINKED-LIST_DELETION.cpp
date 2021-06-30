@@ -7,7 +7,9 @@ To delete a node from the linked list, we need to do the following steps.
  
 // A complete working C++ program to
 // demonstrate deletion in singly
-// linked list with class
+// linked list with class */
+
+
 #include <bits/stdc++.h>
 using namespace std;
  
