@@ -1,3 +1,9 @@
+link-https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+Input: s = "hello"
+Output: "holle"
+`````
+
 class Solution {
 public:
     string reverseVowels(string s) {
