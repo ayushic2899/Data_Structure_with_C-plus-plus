@@ -1,11 +1,9 @@
-link-https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+link- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
-Example 1:
+ Example 1:
 
-Input: s = "][]["
+Input: s = "())"
 Output: 1
-Explanation: You can make the string balanced by swapping index 0 with index 3.
-The resulting string is "[[]]".
   
   ``````````````````
 
